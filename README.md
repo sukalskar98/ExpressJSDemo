@@ -19,7 +19,7 @@ This repository contains incremental code demos for a session on Express.js usin
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/sukalskar98/ExpressJSDemo.git
     ```
 
 2. Navigate to the root folder.
