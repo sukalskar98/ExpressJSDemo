@@ -34,7 +34,7 @@ This repository contains incremental code demos on Express.js using TypeScript. 
     npm run dev
     ```
 
-> **Note:** `nodemon` is configured for hot-reloading when files are modified.
+> **Note:** `nodemon` is configured to monitor file changes and restart the server automatically.
 
 ---
 
@@ -72,7 +72,6 @@ This demo introduces the concept of middlewares in Express.js, including both ap
 - Key Concepts:
   - Creating custom middlewares
   - Using application-level and route-specific middlewares
-  - Implementing a simple authentication middleware
 
 ---
 
