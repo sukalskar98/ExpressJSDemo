@@ -1,6 +1,6 @@
 # **Express.js with TypeScript Demo**
 
-This repository contains incremental code demos for a session on Express.js using TypeScript. Each region contains an incremental topic that builds upon the previous, providing a step-by-step guide to understanding Express.js fundamentals.
+This repository contains incremental code demos on Express.js using TypeScript. Each region contains an incremental topic that builds upon the previous, providing a step-by-step guide to understanding Express.js fundamentals.
 
 ## **Table of Contents**
 1. [Setting up Express.js](#1-setting-up-expressjs)
